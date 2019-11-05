@@ -1,2 +1,2 @@
-# leecode
-leecode note
+# leetcode
+leetcode刷题日记
